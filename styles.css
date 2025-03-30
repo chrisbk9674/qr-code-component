@@ -1,11 +1,4 @@
-*,
-*::before,
-*::after {
-  outline: none !important;
-}
-
 * {
-  outline: 1px solid red;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -39,7 +32,7 @@ body {
 }
 
 .qr-card-text-wrapper {
-  padding: 27px 16px 39px 16px;
+  padding: 27px 24px 39px 24px;
 }
 
 h1 {
