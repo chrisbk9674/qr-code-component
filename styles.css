@@ -16,7 +16,7 @@ body {
   border-radius: 20px;
   overflow: hidden;
   background-color: #fff;
-  padding: 27px 24px 39px 24px;
+  padding: 16px 16px 39px 16px;
   box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0477);
   margin: 0 auto;
 }
@@ -37,6 +37,8 @@ body {
 
 .qr-card-text-wrapper {
   /* padding: 27px 24px 39px 24px; */
+  padding-right: 8px;
+  padding-left: 8px;
 }
 
 h1 {
