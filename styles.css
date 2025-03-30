@@ -16,12 +16,16 @@ body {
   border-radius: 20px;
   overflow: hidden;
   background-color: #fff;
+  padding: 27px 24px 39px 24px;
   box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0477);
   margin: 0 auto;
 }
 
 .qr-code-wrapper {
   width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 24px;
 }
 
 .qr-code-wrapper img {
@@ -32,7 +36,7 @@ body {
 }
 
 .qr-card-text-wrapper {
-  padding: 27px 24px 39px 24px;
+  /* padding: 27px 24px 39px 24px; */
 }
 
 h1 {
