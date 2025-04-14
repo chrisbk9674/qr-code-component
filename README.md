@@ -1,4 +1,4 @@
-# 🌟 Qr Code Component – Frontend Mentor Challenge\*\*
+# 🌟 Fully Responsive Qr Code Component\*\*
 
 <p align="center">
   <img src="design/preview.jpg" alt="Stats Preview Card Component" width="50%">
